@@ -12,7 +12,7 @@ A fully responsive dashboard template built using React and Material-UI.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/React-DashboardKit.git
+git clone https://github.com/Jarri-24-7/React-DashboardKit.git
 cd React-DashboardKit
 npm install
 npm start
